@@ -6,7 +6,7 @@ Godoy, Marcos1;    Araújo, Wellingson Assunção2.
 2 Genetics Laboratory Statistics - Luiz de Queiroz College of Agriculture ESALQ / USP.
 
 
-## introducion 
+## Introduction 
 
 Most of the characteristics of interest are classified as quantitative, that is, they are influenced by several genes. Therefore the tools for mapping QTL are of great importance to understand the behavior of these characteristics.
 The genetic linkage maps are used to initiate the genetic architecture studies of the species, thus providing a basis for QTL mapping, isolation and identification of the genes involved in the phenotypic differentiation, as well as the contribution of each gene to the characteristic.
