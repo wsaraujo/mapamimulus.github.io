@@ -5,7 +5,6 @@
 Godoy, Marcos 1;    Araújo, Wellingson Assunção 2. 
 
 1 Laboratory of Genetic Diversity and Breeding - Luiz de Queiroz College of Agriculture ESALQ / USP.
-
 2 Statistics Genetics Laboratory  - Luiz de Queiroz College of Agriculture ESALQ / USP.
 
 
@@ -64,4 +63,5 @@ For more details watch the [video](https://youtu.be/RIjswHuOBMct)
 <p style="text-align: justify;">R Core Team (2014). R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria. URL http://www.R-project.org/.</p>
 
 <p style="text-align: justify;">Voorrips, R.E., 2002. MapChart: Software for the graphical presentation of linkage maps and QTLs. The Journal of Heredity 93 (1): 77-78. </p>
+
 
