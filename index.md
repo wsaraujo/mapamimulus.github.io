@@ -36,6 +36,11 @@ The link map was constructed using the package for the R Onemap environment (MAR
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0006.jpg)
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0007.jpg)
 
+[mapa3.png](src)
+
+[mapa3](src)
+<img src = "https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0007.jpg">
+
 # Map obtained by Mapchart
 
 ![image 1](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa1.png)
