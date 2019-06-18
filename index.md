@@ -26,7 +26,6 @@ The link map was constructed using the package for the R Onemap environment (MAR
 # Results
 
 ![imagem](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img13.jpg)
-Format: ![Alt Text](url)
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img14.jpg)
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img16.jpg)
 ## Heatmaps
