@@ -27,7 +27,7 @@ The link map was constructed using the package for the R Onemap environment (MAR
 
 # Map obtained by Mapchart
 
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa1.png)
+![image 1](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa1.png)
 
 
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa2.png)
