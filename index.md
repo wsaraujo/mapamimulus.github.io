@@ -25,25 +25,30 @@ The link map was constructed using the package for the R Onemap environment (MAR
 
 # Results
 
+Access the complete results [here](mimulusfinal2.html).
+
+### Summary of results
 ![imagem](img13.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img14.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img16.jpg)
+![](img14.jpg)
+![](img16.jpg)
+
 ## Heatmaps
 
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0001.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0002.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0003.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0004.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0005.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0006.jpg)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0007.jpg)
+![](0001.jpg)
+![](0002.jpg)
+![](0003.jpg)
+![](0004.jpg)
+![](0005.jpg)
+![](0006.jpg)
+![](0007.jpg)
 
 # Map obtained by Mapchart
 
-![image 1](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa1.png)
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa2.png)
+![](mapa1.png)
+![](mapa2.png)
+![](mapa3.png)
 
-![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa3.png)
+# Watch a tutorial video
 
 For more details watch the [video](https://youtu.be/RIjswHuOBMct)
 
