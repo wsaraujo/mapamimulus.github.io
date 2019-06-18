@@ -28,7 +28,10 @@ The link map was constructed using the package for the R Onemap environment (MAR
 # Map obtained by Mapchart
 
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa1.png)
+
+
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa2.png)
+
 ![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mapa3.png)
 
 For more details watch the [video](https://youtu.be/RIjswHuOBMct)
