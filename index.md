@@ -1,17 +1,20 @@
+
 ## Mimulus Genetic Mapping - A new approach with more molecular markers
 
-Godoy, Marcos1;    Araújo, Wellingson Assunção2. 
+
+Godoy, Marcos 1;    Araújo, Wellingson Assunção 2. 
 
 1 Laboratory of Genetic Diversity and Breeding - Luiz de Queiroz College of Agriculture ESALQ / USP.
-2 Genetics Laboratory Statistics - Luiz de Queiroz College of Agriculture ESALQ / USP.
+
+2 Statistics Genetics Laboratory  - Luiz de Queiroz College of Agriculture ESALQ / USP.
 
 
 ## Introduction 
 
-Most of the characteristics of interest are classified as quantitative, that is, they are influenced by several genes. Therefore the tools for mapping QTL are of great importance to understand the behavior of these characteristics.
+<p style="text-align: justify;">Most of the characteristics of interest are classified as quantitative, that is, they are influenced by several genes. Therefore the tools for mapping QTL are of great importance to understand the behavior of these characteristics.
 The genetic linkage maps are used to initiate the genetic architecture studies of the species, thus providing a basis for QTL mapping, isolation and identification of the genes involved in the phenotypic differentiation, as well as the contribution of each gene to the characteristic.
 The advent of molecular marker production techniques allows for a greater coverage of the genome, making possible a more comprehensive study of the quantitative characteristics, currently different types of molecular markers are found, which have greater ease of automation, lower cost and greater reliability.
-The increase in the number of markers is the main motivation of this work, in 2001 the paper: A Genetic Map in the Mimulus guttatus Species Complex Reveals Transmission Ratio Distortion due to Heterospecific Interactions, shows the construction of a genetic map of a F2 population obtained through the crossing between Mimulus guttatus and Mimus nasutus species. In this work, 174 markers were used, which demonstrated the formation of 14 binding groups. In order to increase the level of information about this population, the present work reconstructed the genetic map with a larger number of molecular markers.
+The increase in the number of markers is the main motivation of this work, in 2001 the paper: A Genetic Map in the Mimulus guttatus Species Complex Reveals Transmission Ratio Distortion due to Heterospecific Interactions, shows the construction of a genetic map of a F2 population obtained through the crossing between Mimulus guttatus and Mimus nasutus species. In this work, 174 markers were used, which demonstrated the formation of 14 binding groups. In order to increase the level of information about this population, the present work reconstructed the genetic map with a larger number of molecular markers.</p>
 
 ## Material and methods.
 
