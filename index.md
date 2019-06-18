@@ -23,6 +23,18 @@ The F2 population containing 287 individuals was constructed from the crossing o
 
 The link map was constructed using the package for the R Onemap environment (MARGARIDO et al, 2007) however the original data are in MAPMAKER format (LANDER et al., 1987). Initially for the import of the data to the Onemap was used the function read_mapmaker, after this the presence of redundant markers was verified. In order to observe the presence of markers that do not present Mendelian segregation a segregation test was made, adopting like null hypothesis the expected segregation for a F2 population, for each marker type (dominant and codominant). First, only the markers following the Mendelian segregation (348) were used and later some distortion markers were added to improve some binding groups (39). The two point test was performed initially to identify the binding between the markers, estimating the recombination fractions. Subsequently, the binding groups were formed with the recombination fraction of 0.5 and the LOD suggested by the program. The ordering strategy was based on the multipoint analysis using the markov chain, within the function try_sec the "force" and "safe" arguments were used as appropriate to each group, besides the removal of markers based on heatmaps and maximum likelihood values. Finally, after all the manipulations in each group, the map was designed using the mapChart software.
 
+# Results
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img13.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img14.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/img16.jpg)
+## Heatmaps
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0001.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0002.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0003.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0004.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0005.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0006.jpg)
+![](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/0007.jpg)
 
 # Map obtained by Mapchart
 
@@ -32,17 +44,3 @@ The link map was constructed using the package for the R Onemap environment (MAR
 
 For more details watch the [video](https://youtu.be/RIjswHuOBMct)
 
-[video](https://github.com/wsaraujo/mapamimulus.github.io/blob/master/mimulus_final.html)
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wsaraujo/mapamimulus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
