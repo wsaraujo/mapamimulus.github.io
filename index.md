@@ -29,9 +29,17 @@ The increase in the number of markers is the main motivation of this work, in 20
 
 Access the complete results [here](mimulusfinal2.html).
 
-### Summary of results
+## Summary of results
+#### Data Structure
+
 ![](img13.jpg)
+
+#### Segregation Type
+
 ![](img14.jpg)
+
+#### Test Segregation
+
 ![](img16.jpg)
 
 ## Heatmaps
@@ -54,7 +62,7 @@ Access the complete results [here](mimulusfinal2.html).
 
 For more details watch the [video](https://youtu.be/RIjswHuOBMct)
 
-# Bibliographic references 
+# Bibliographic References 
 
 <p style="text-align: justify;">Fishman, L., A. J. Kelly, E. Morgan and J. H. Wilis, 2001 A genetic map in the Mimulus guttatus species complex reveals transmission ratio distortion due to heterospecific interactions. Genetics 159: 1701-1716.</p>
 
@@ -64,7 +72,7 @@ For more details watch the [video](https://youtu.be/RIjswHuOBMct)
 
 <p style="text-align: justify;">Voorrips, R.E., 2002. MapChart: Software for the graphical presentation of linkage maps and QTLs. The Journal of Heredity 93 (1): 77-78. </p>
 
->### Contato 
+### Contato 
 
  marcos.a.godoy.f@gmail.com 
  
