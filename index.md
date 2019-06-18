@@ -31,7 +31,7 @@ The link map was constructed using the package for the R Onemap environment (MAR
 Access the complete results [here](mimulusfinal2.html).
 
 ### Summary of results
-![imagem](img13.jpg)
+![](img13.jpg)
 ![](img14.jpg)
 ![](img16.jpg)
 
