@@ -1,5 +1,5 @@
 
-## Mimulus Genetic Mapping - A new approach with more molecular markers
+# Mimulus Genetic Mapping - A new approach with more molecular markers
 
 
 Godoy, Marcos 1;    Araújo, Wellingson Assunção 2. 
