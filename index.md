@@ -72,7 +72,7 @@ For more details watch the [video](https://youtu.be/RIjswHuOBMct)
 
 <p style="text-align: justify;">Voorrips, R.E., 2002. MapChart: Software for the graphical presentation of linkage maps and QTLs. The Journal of Heredity 93 (1): 77-78. </p>
 
-### Contato 
+### Contact 
 
  marcos.a.godoy.f@gmail.com 
  
